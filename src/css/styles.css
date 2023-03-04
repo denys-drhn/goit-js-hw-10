@@ -18,3 +18,18 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+
+img {
+	display: block;
+	max-width: 100%;
+	height: auto;
+	object-fit: cover;
+}
+
+ul {
+	padding-inline-start: 0px;
+}
+li,
+ul {
+	list-style: none;
+}
